@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_instalogo.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\instalogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_textinsta.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\textinsta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_share_menu.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\menu\\share_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_insta.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_instagramback.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\instagramback.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_instalogo2.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\instalogo2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_intsalogotext.jpg.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\intsalogotext.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_feed.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_list.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_instalogo3.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\instalogo3.png"
+    }
+]

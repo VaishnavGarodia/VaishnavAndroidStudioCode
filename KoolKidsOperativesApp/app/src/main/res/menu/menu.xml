@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/share"
+        android:title="@string/add_mission" />
+
+    <item
+        android:id="@+id/map"
+        android:title="Operatives Locations" />
+    <item
+        android:id="@+id/edit"
+        android:title="Edit Personal Info" />
+    <item
+        android:id="@+id/emergency"
+        android:title="Trigger Emergency!" />
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout" />
+</menu>
